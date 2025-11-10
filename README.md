@@ -3,7 +3,7 @@
 ## 🌍 Overview
 
 **FinBot** is an innovative **AI-powered financial literacy assistant** designed to empower **low-income and multilingual communities** by providing real-time financial education, scam alerts, and budgeting guidance through **WhatsApp**.  
-Built using **FastAPI**, **Hugging Face NLP models**, and the **WhatsApp Cloud API**, FinBot simplifies financial learning by interacting in users’ native languages — making financial knowledge **accessible, secure, and inclusive**.
+Built using **FastAPI**, **NLP models**, and the **WhatsApp Cloud API**, FinBot simplifies financial learning by interacting in users’ native languages — making financial knowledge **accessible, secure, and inclusive**.
 
 ---
 
